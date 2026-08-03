@@ -21,6 +21,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ## 📫 Contacto
-Mail = lautarodavidgodoy2@gmail.com
-Linkedin = https://www.linkedin.com/in/lautaro-david-godoy-639b31426/
+- Mail = lautarodavidgodoy2@gmail.com
+- Linkedin = https://www.linkedin.com/in/lautaro-david-godoy-639b31426/
 ¡No dudes en contactarme si querés charlar de proyectos o darme una devolución sobre mi código!
